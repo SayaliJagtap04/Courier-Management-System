@@ -18,6 +18,7 @@ A web-based application to manage courier shipments, track parcel deliveries, an
 ## ⚙️ Installation
  **Clone the repository**
    ```bash
-   git clone https://github.com/PrachiBadmanji/courier-management-system.git
+   git clone https://github.com/SayaliJagtap04/courier-management-system.git
+
 
 
